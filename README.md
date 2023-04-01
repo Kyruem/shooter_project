@@ -4,3 +4,4 @@ This is a shooter game project created by the creator of this file. Made in Pyth
 
 ![RogueFalcon](https://user-images.githubusercontent.com/129579032/229270477-b004f1d4-2a87-4151-a79c-0d821db224e8.gif)
 ![pixil-frame-0](https://user-images.githubusercontent.com/129579032/229270532-1a18f466-6542-45e0-9a68-8862bc1de2b5.png)
+![IMG_6947](https://user-images.githubusercontent.com/129579032/229270585-47622d62-aa47-4944-b188-c44fc85ec78b.JPG)
